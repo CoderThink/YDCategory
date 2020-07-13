@@ -1,0 +1,27 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.4.3)
+  - YDCategory (0.1.0):
+    - MBProgressHUD
+    - MJRefresh
+
+DEPENDENCIES:
+  - YDCategory (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  YDCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  YDCategory: 46dec736e3dd43d032e337cf47cf8bda9b9ee1be
+
+PODFILE CHECKSUM: eca084e6e14bf0411ea1edbdeb8d3f01f562646b
+
+COCOAPODS: 1.9.3
