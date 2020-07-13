@@ -37,8 +37,6 @@
 #import "UIViewController+YYPresent.h"
 #import "WTTVerticalButton.h"
 #import "YDExpansionButton.h"
-#import "YDRefreshAutoNormalFooter.h"
-#import "YDRefreshHeader.h"
 #import "UIViewController+YDGeneral.h"
 #import "UIViewController+YDGeneralHook.h"
 
