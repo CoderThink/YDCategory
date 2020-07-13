@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = '常用的工具类，方便快速开发'
 
-  s.homepage         = 'https://github.com/yangdong@163.com/YDCategory'
+  s.homepage         = 'https://github.com/CoderThink/YDCategory'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yangdong@163.com' => 'yangdong@163.com' }
-  s.source           = { :git => 'https://github.com/yangdong@163.com/YDCategory.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/CoderThink/YDCategory.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
